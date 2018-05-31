@@ -1,0 +1,3 @@
+XY ponty 25.0 harcsa 10 hal 45
+AB keszeg 10 hal 20
+CD capa 200.27

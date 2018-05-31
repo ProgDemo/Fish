@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1527802659 source:e:\elte\prog_demo\fish\main.cpp
+	<iostream>
+	"seqinfileenumerator.hpp"
+	"Fisherman.h"
+	"MaxFish.h"
+
+1527803764 e:\elte\prog_demo\fish\fisherman.h
+	<vector>
+	<istream>
+	<sstream>
+	<ostream>
+	"stringstreamenumerator.hpp"
+	"Fish.hpp"
+	"FishReader.h"
+	"arrayenumerator.hpp"
+	"SumFish.h"
+
+1527801317 e:\elte\prog_demo\fish\fishreader.h
+	"summation.hpp"
+	"Fish.hpp"
+	<vector>
+
+1502814932 e:\elte\prog_demo\fish\summation.hpp
+	"procedure.hpp"
+
+1510741578 e:\elte\prog_demo\fish\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+
+1502810830 e:\elte\prog_demo\fish\enumerator.hpp
+
+1526901340 e:\elte\prog_demo\fish\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1527802979 e:\elte\prog_demo\fish\fish.hpp
+	<istream>
+	<ostream>
+
+1502814352 e:\elte\prog_demo\fish\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	"enumerator.hpp"
+
+1527803331 e:\elte\prog_demo\fish\maxfish.h
+	"Fisherman.h"
+	"maxsearch.hpp"
+
+1502814932 e:\elte\prog_demo\fish\maxsearch.hpp
+	"procedure.hpp"
+
+1527802333 e:\elte\prog_demo\fish\sumfish.h
+	"Fish.hpp"
+	"summation.hpp"
+
+1502814352 e:\elte\prog_demo\fish\arrayenumerator.hpp
+	"enumerator.hpp"
+	<vector>
+
